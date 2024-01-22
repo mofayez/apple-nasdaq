@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# apple-nasdaq
-=======
 ## About Project
 
 This project is a based on Laravel and  built using hexagonal architecture It enables the you to Register, login, and do other auth stuff.
@@ -47,4 +44,3 @@ sail up
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
->>>>>>> 429f2a8 (First Push)
