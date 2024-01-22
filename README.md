@@ -20,7 +20,6 @@ COMPANY_SYMBOL=AAPL
 POLYGON_API_KEY=mUBLQouY09PwL9ZZtWaqSXLkKUnECJ1x
 ```
 
-```
 ### Create tables
 ```bash
 php artisan migrate
